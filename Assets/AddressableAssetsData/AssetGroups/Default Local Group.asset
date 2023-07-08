@@ -1,0 +1,545 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2bfedc8502c4e654c84d778281ca7209
+  m_SerializeEntries:
+  - m_GUID: 7e53f6a17a32061468eec6bee5a36302
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/03-Churrasqueira.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72dbb003a7f8b4b41a67e629055e0518
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/04-Espaco-Kids.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3abf6c8f299a2d743a279998689286bd
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_PPC_GUARITAENTARDECER_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1bbdc358da80d449b3f28ae9b6f301f
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_PPC_GUARITADIURNA_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2126e33fb8a1ee242b5149f02fa6d0cd
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/01-Academia.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6f29ecdade044047b23e12e31fa09dc
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_PPC_BICICLETARIO_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97b998d679d608b42850c6706e16add9
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/02-Area-Lazer.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a65fe6a278ee6fb4e8032878b04824a7
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_PPC_CHURRASQUEIRA_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa247c8ad1d58464f910f15e40e44753
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_PPC_PISCINA_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8631ad344bd7c6a42927efebc7863902
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_INTERNAS_AREAPRIVATIVA_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e00e0e27b0c89e643a657e5c6fe9b119
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_PPC_SALAODEFESTAS_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 919a8accdc4d579498f9573315ae9d50
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_INTERNAS_SALA_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 214ce1a630194b84c8ac7b33941de502
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_PPC_PLAYGROUND_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9eb2c5ec999345b42a39edcb114bc8cd
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_INTERNAS_QUARTOMAIOR_V02y.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aac810872fbfe144bbcb1871eac99435
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_INTERNAS_COZINHA_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1afdd173cbfb802428f98da52a4ce3f7
+    m_Address: Assets/Addressables/Geral/Background Slides/SAINTCHARLES_PPC_PISCINAENTARDECER_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce4014ea99e0533459440c657f038d24
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/05-Pet-Place.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84ca31722f9dca84d941923263a7d8b9
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/06-Piscina-Adulta.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3a1186bba2e375488b095fa0081983a
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/07-Piscina-Infantil.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7a8cae66bf46cd43a809365e153f5a8
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/08-Playground.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e89e32bea5fe24d4a8a291dac67bc1b8
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/09-Portaria.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a89d504b2328bb943bf83a2ad19bb600
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/10-Quadra.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51d8caf6ea477f143adc534c1db079d0
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/11-Festas.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8648b63dbbffb2f4abc945045ed124ed
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/12-Jogos.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70db06e83cf26ea499e3dfae7fcfc3db
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/13-Garagem.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4436a73a12d71474ea9c1b57d8747056
+    m_Address: Assets/Addressables/Geral/Icones Area Externa/14-Bicicletario.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d79cb936c0f87b94d80a2c18a24ed4f0
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/02-Banheiro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c123617199103474abc02aa7576a73a3
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/03-Closet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aad949fbf6462a240b0f086c50d5b628
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/04-Cozinha.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bff2bb81dcebf8e4982eed695b842c81
+    m_Address: "Assets/Addressables/Geral/Icones Area Interna/05-Escrit\xF3rio.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1fba968c52b7ad04b9b169267d7acfd0
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/06-Lavabo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2752253a7840ec94090bd4945b60c576
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/07-Lavanderia.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f977692ad35f9bc40acbd2a025afa3c9
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/08-Quarto-Casal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a588186d69f371b458963297cbec7324
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/09-Quarto-Solteiro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12be4942ce4c6e744a477be865118902
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/10-Sala-Estar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69773ee86e081a941934dbfc6e645b8b
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/11-Sala-Jantar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b2882141259d864ea902b8ba3f6047d
+    m_Address: "Assets/Addressables/Geral/Icones Area Interna/12-Su\xEDte.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2705072213441484ea5c69da9bd58ecb
+    m_Address: Assets/Addressables/Geral/Icones Area Interna/13-Varanda.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bf0b6957e6b1794cb83a7b54ce0ecb6
+    m_Address: Assets/Addressables/Geral/Fichas Tecnicas/FichaTecnica-GrandTopazio.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4fbd4c319ac3374ea43e7fd099d1a8d
+    m_Address: Assets/Addressables/Geral/Fichas Tecnicas/FichaTecnica-SaintCharles.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cdf77d287520c0439463691e46bc24c
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Videos/Grand Top\xE1zio
+      de Teresina_PI _ MRV.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f54c66b5d67410499dcc6c85eff02b0
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Logotipo/Logotipo.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1f15df87b7f7ca41ae657f5ee23fa16
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Empreendimento/Cameras/ConfiguracaoCameraMaquete.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95b8dd88fe1a8064eaed5f3c9cd9be18
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Empreendimento/Cameras/ConfiguracaoCameraAreaExterna.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd6bea41e4fb568458ac316eb5a8df49
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Empreendimento/Cameras/ConfiguracaoCameraAreaInterna.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e849aca3feac3ce4d82998a147f83a73
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Empreendimento/Prefabs/Maquete.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd480a695dfe2e54a973f88c7948a175
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Empreendimento/Prefabs/AreaExterna.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa5213c672d677640bccaf0e831caec6
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Empreendimento/Prefabs/AreaInternaDecorada.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a761a1e3f51082048bc0fd071c84420b
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Empreendimento/Prefabs/AreaInternaNaoDecorada.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e47a6687de7f1c4186ea136d78c89c6
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Empreendimento/Sol/Sol.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f8c044da05d04644a9aa1ea698859c2
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/CWWS6_GRANTOP\xC1ZIO_PPCVARANDATIPOENTARDECER_25-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43795e62017c8b140b95a37b0183f6f9
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOPAZIO_PPCCHURRASQUEIRA_19-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 890ecc16270c3fe47952a0e5c1e1d440
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOPAZIO_PPCPETPLACE_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84a2ed81f4d0aa041ae1fb4c1aa4770d
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOPAZIO_PPCPISCINADIURNA_13-10-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34777ea260873d347b04930092b0b838
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOPAZIO_PPCPISCINANOTURNA_13-10-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b49b1f45c9f3af849b174098caf3a283
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOPAZIO_PPCPLAYGROUND_13-10-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e257a2e47999074380b9e4944b5ffaa
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOPAZIO_PPCQUADRA_13-10-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d14feeb3e1e2f34599e90ddec057bb6
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOP\xC1ZIO_PPCCOZINHATIPO_13-10-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d273c13f2cedbd4c8b992faf1cae85b
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOP\xC1ZIO_PPCQUARTODESOLTEIRO_24-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67b4c0986c07f974abac642ed1fbcf8f
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOP\xC1ZIO_PPCSALATIPO_24-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a55996fda66fdbd4ba7ac04848f74b13
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANDTOP\xC1ZIO_PPCSU\xCDTE_25-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95bfdba897a55524b9c9e7c3988b3192
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANTOP\xC1ZIO_PPCFITNESS_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61a7ff3366364674ea118bd9d13c1bc1
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANTOP\xC1ZIO_PPCKIDS_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d03e54960d48dad43b568dbd960a9979
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANTOP\xC1ZIO_PPCSAL\xC3ODEFESTAS_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91565e0747474aa4f94c6daea7b14940
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANTOP\xC1ZIO_PPCSAL\xC3ODEJOGOS_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1c545c6fd978234b9900c1621742f46
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANTOP\xC1ZIO_PPCVARANDATIPO_25-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ca556b4dd5f6974b9eb1240c119873c
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Imagens/GRANTOP\xC1ZIO_PPC\xC1REAPRIVATIVA_25-05-2022
+      1.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72c87c281bc386549b08085842a479fe
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Plantas/GRANDTOP\xC1ZIO_PHAPTO105TORRE1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 409553e3e3951f74b9dd685884441476
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Plantas/GRANDTOP\xC1ZIO_PHAPTO108TORRE1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 217e9dd7d7aef504ba9e8afdce7ee011
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Plantas/GRANDTOP\xC1ZIO_PHAPTO604TORRE1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6736e65e37428394097c077f1fee6516
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Plantas/GRANDTOP\xC1ZIO_PHAPTO607TORRE1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77afd07d56d775d4e8ee1423e57b30c5
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Videos/Grand Top\xE1zio
+      de Teresina_PI _ MRV.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbfec06df6d1d2d4a9f1aa64c9285a8e
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Videos/O melhor jeito
+      de prever o futuro \xE9 construir o futuro _ MRV&CO.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b87cf5632190c341827fbc9d95cc043
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Videos/Simula\xE7\xE3o
+      do Tour no Grand Top\xE1zio - Teresina_PI _ MRV.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbdb47306114bb846b358332acfd5d05
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Videos/Sustentabilidade
+      _ MRV-(1080p).png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dadccb3031d3888479bb6fef3de7ca2b
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Videos/O melhor jeito
+      de prever o futuro \xE9 construir o futuro _ MRV&CO.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f5e0ac7dd96430419a02ffa61d9802e
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Videos/Simula\xE7\xE3o
+      do Tour no Grand Top\xE1zio - Teresina_PI _ MRV.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c37d73bc0d4b3854aa243ef5a5dfd5df
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Videos/Sustentabilidade
+      _ MRV-(1080p).mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c01c1bec9a4c814e9ec690a8e1b00ea
+    m_Address: "Assets/Addressables/Grand Top\xE1zio/Galeria de Plantas/InfoPlantaBaixa.json"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36d686455e6c18943b233e5c75675e75
+    m_Address: Assets/Addressables/Saint Charles/Logotipo/Logotipo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa01f870e945d2a40ae5511e915a6f00
+    m_Address: Assets/Addressables/Saint Charles/Empreendimento/Cameras/ConfiguracaoCameraMaquete.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 379a27b3b9c60aa4e96e35dfd44df5c9
+    m_Address: Assets/Addressables/Saint Charles/Empreendimento/Cameras/ConfiguracaoCameraAreaExterna.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bb66627a48d01948a9c34ede91d4970
+    m_Address: Assets/Addressables/Saint Charles/Empreendimento/Cameras/ConfiguracaoCameraAreaInterna.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a89b5e329e4424642982c9b693fb02f2
+    m_Address: Assets/Addressables/Saint Charles/Empreendimento/Prefabs/Maquete.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d66db1e726c01be43b9bea666a1cbf31
+    m_Address: Assets/Addressables/Saint Charles/Empreendimento/Prefabs/AreaExterna.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21b465b303c5e2b468ca42afb0048cbc
+    m_Address: Assets/Addressables/Saint Charles/Empreendimento/Prefabs/AreaInternaDecorada.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 516cba8add63bae4c93c5e7eb5cf3992
+    m_Address: Assets/Addressables/Saint Charles/Empreendimento/Prefabs/AreaInternaNaoDecorada.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6923130f7ed48584898e54ac21f1891b
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_INTERNAS_AREAPRIVATIVA_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35fedb884f3a8e84a9c7d77a00f25bcf
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_INTERNAS_COZINHA_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 831960b3151900d4a9be5974ca7e10f6
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_INTERNAS_QUARTOMAIOR_V02y.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34b30ad8341ce794ba9b2e7807d1b435
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_INTERNAS_SALA_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd28a766124820046986463075752d93
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_PPC_BICICLETARIO_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa1c198bef16281439426521e0ba7a63
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_PPC_CHURRASQUEIRA_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b81f695fbe903f54d9aef7a1dad2f7a4
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_PPC_GUARITADIURNA_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5143e41eedc779a48864c9c5d65c4d16
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_PPC_GUARITAENTARDECER_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e31f04fd2c3fd4347a6497ba49465c1a
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_PPC_PISCINA_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d03c51152e1650446ae355f1a8dedd2a
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_PPC_PISCINAENTARDECER_V02.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56bf6a4c754da4745a439154792dcda2
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_PPC_PLAYGROUND_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63a1aaaeb5bfc8441b55fb9aa8289853
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Imagens/SAINTCHARLES_PPC_SALAODEFESTAS_V08.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db3b6e2e76165ff4dab66ac5cc328cec
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Plantas/InfoPlantaBaixa.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5c7a857b5b3c4c4bb4bde0fb1318c81
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Plantas/asset_SAINTCHARLES_apto101-bloco-01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81e0707043e80c54e8436dba683b1b81
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Plantas/asset_SAINTCHARLES_apto201-bloco-01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be434638f926dd849b2042fb6f281dc1
+    m_Address: "Assets/Addressables/Saint Charles/Galeria de Videos/O melhor jeito
+      de prever o futuro \xE9 construir o futuro _ MRV&CO.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6928c95870a8ce4d8c27d6fe747bd9a
+    m_Address: "Assets/Addressables/Saint Charles/Galeria de Videos/Saint Charles
+      da MRV em Santana de Parna\xEDba - SP.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 088cacd0f905b4d40adc504dfdc0e12e
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Videos/Sustentabilidade
+      _ MRV-(1080p).mp4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b304dc354c728574783660e7a2cf931f
+    m_Address: "Assets/Addressables/Saint Charles/Galeria de Videos/O melhor jeito
+      de prever o futuro \xE9 construir o futuro _ MRV&CO.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4314bcfdbf90914e8a86ec7c148db19
+    m_Address: "Assets/Addressables/Saint Charles/Galeria de Videos/Saint Charles
+      da MRV em Santana de Parna\xEDba - SP.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84e8076965040a046aab0d4615cddd34
+    m_Address: Assets/Addressables/Saint Charles/Galeria de Videos/Sustentabilidade
+      _ MRV-(1080p).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fe7dd837a824684fb96dd1d904b1f52
+    m_Address: Assets/Addressables/Saint Charles/Empreendimento/Sol/Sol.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e1b6387b98099e47bcd03af38334840
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANTOP\xC1ZIO_PPC\xC1REAPRIVATIVA_25-05-2022
+      1.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1117b3fb0fc18d64ca262e4debd75be9
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANTOP\xC1ZIO_PPCVARANDATIPO_25-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 773e9dfede350fb409a15217d34d85cd
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANTOP\xC1ZIO_PPCSAL\xC3ODEJOGOS_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: edcda46850d831d42a59ecd44fa52fb8
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANTOP\xC1ZIO_PPCSAL\xC3ODEFESTAS_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c5f44f52bbd828408642389ba9dccda
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANTOP\xC1ZIO_PPCKIDS_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 082a8405aaf8f8c40b3d208567fbbabe
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANTOP\xC1ZIO_PPCFITNESS_16-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1d47ca936773a243b4a69d63d59bba3
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANDTOP\xC1ZIO_PPCSU\xCDTE_25-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97a2a7bc3d730884086dc470f63fc212
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANDTOP\xC1ZIO_PPCSALATIPO_24-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f303ebec1fe28b47b082d58c8591dfb
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANDTOP\xC1ZIO_PPCQUARTODESOLTEIRO_24-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c92928ad8a4a0f46ad8fa2e6b8d0fdc
+    m_Address: "Assets/Addressables/Geral/Background Slides/GRANDTOP\xC1ZIO_PPCCOZINHATIPO_13-10-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 120858eca02cc0146b40d45776e365c6
+    m_Address: Assets/Addressables/Geral/Background Slides/GRANDTOPAZIO_PPCQUADRA_13-10-2022.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cdb9d1f114e2b042a0536804eed9026
+    m_Address: Assets/Addressables/Geral/Background Slides/GRANDTOPAZIO_PPCPLAYGROUND_13-10-2022.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21ffbfebdad753146bf17952ab738348
+    m_Address: Assets/Addressables/Geral/Background Slides/GRANDTOPAZIO_PPCPISCINANOTURNA_13-10-2022.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2891fd63ad7435a4cbeddfcfd66e2a3f
+    m_Address: Assets/Addressables/Geral/Background Slides/GRANDTOPAZIO_PPCPISCINADIURNA_13-10-2022.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c4d021ae9b203b4cae4430b75fb4876
+    m_Address: Assets/Addressables/Geral/Background Slides/GRANDTOPAZIO_PPCPETPLACE_16-05-2022.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e59e4a73ae45b4a4a97041926f5de8a1
+    m_Address: Assets/Addressables/Geral/Background Slides/GRANDTOPAZIO_PPCCHURRASQUEIRA_19-05-2022.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ece3c55f79f13644b5f3348d6112f8f
+    m_Address: "Assets/Addressables/Geral/Background Slides/CWWS6_GRANTOP\xC1ZIO_PPCVARANDATIPOENTARDECER_25-05-2022.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9332c190bb208f54885e86349d4a7150, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 27cb2e00bdc79ee4f9fde49d221e5948, type: 2}
+    - {fileID: 11400000, guid: 22b930f6840d6d94197ce9b861deff37, type: 2}

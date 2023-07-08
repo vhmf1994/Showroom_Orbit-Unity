@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 9f574360bc005824e8aa8900f0a1234a
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -2568037280084786083
+    second: PlantaDeco|EmptyAction
+  - first:
+      74: -3250607072644810165
+    second: PlantaDeco|EmptyAction.001
+  - first:
+      74: 3849696533169701323
+    second: PlantaDeco.001|EmptyAction
+  - first:
+      74: 455211577961201042
+    second: PlantaDeco.001|EmptyAction.001
+  - first:
+      74: -842106405249316384
+    second: PlantaDeco.002|EmptyAction
+  - first:
+      74: 4161711016988405266
+    second: PlantaDeco.002|EmptyAction.001
+  - first:
+      74: -4008326874498054832
+    second: PlantaDeco.003|EmptyAction
+  - first:
+      74: -4692999872414587398
+    second: PlantaDeco.003|EmptyAction.001
+  - first:
+      74: -6237279978162305604
+    second: PlantaDeco.004|EmptyAction
+  - first:
+      74: -773075509982689341
+    second: PlantaDeco.004|EmptyAction.001
+  - first:
+      74: -4276917057553770299
+    second: PlantaDeco.005|EmptyAction
+  - first:
+      74: 4628590652741008536
+    second: PlantaDeco.005|EmptyAction.001
+  - first:
+      74: 1506110497713541823
+    second: PlantaDeco.006|EmptyAction
+  - first:
+      74: -6279767438477430237
+    second: PlantaDeco.006|EmptyAction.001
+  - first:
+      74: -5262341874130095814
+    second: PlantaDeco.007|EmptyAction
+  - first:
+      74: -8568214310532636557
+    second: PlantaDeco.007|EmptyAction.001
+  - first:
+      74: 8521249046597734756
+    second: PlantaDeco.008|EmptyAction
+  - first:
+      74: -6474238020699780005
+    second: PlantaDeco.008|EmptyAction.001
+  - first:
+      74: 1867959678718419954
+    second: PlantaDeco.009|EmptyAction
+  - first:
+      74: 3993002902238862457
+    second: PlantaDeco.009|EmptyAction.001
+  - first:
+      74: -3378933977805237389
+    second: PlantaDeco.010|EmptyAction
+  - first:
+      74: -5990994790434996899
+    second: PlantaDeco.010|EmptyAction.001
+  - first:
+      74: -285745752673116141
+    second: PlantaDeco.011|EmptyAction
+  - first:
+      74: -3866042783738996876
+    second: PlantaDeco.011|EmptyAction.001
+  - first:
+      74: 3661578443750731326
+    second: PlantaDeco.012|EmptyAction
+  - first:
+      74: 1579171398381725633
+    second: PlantaDeco.012|EmptyAction.001
+  - first:
+      74: -376306804471430845
+    second: PlantaDeco.013|EmptyAction
+  - first:
+      74: -5022609716210939047
+    second: PlantaDeco.013|EmptyAction.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_PlantasFrutas
+    second: {fileID: 2100000, guid: e4d8f3600766ba0429523d81a117ddcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_PlantasFrutas.001
+    second: {instanceID: 0}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

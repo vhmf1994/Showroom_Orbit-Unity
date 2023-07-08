@@ -1,0 +1,44 @@
+{
+    "nome": "Grand Topázio",
+    "slogan": "Linhas class: a evolução da sua conquista!",
+    "resumo": "\tA melhor versão de sua vida está no Grand Topázio, um condomínio residencial que é uma verdadeira joia em todos os sentidos. Imóveis espaçosos de 2 quartos sendo 1 suíte oferece mais privacidade ao casal. E por falar em privacidade, os apartamentos também contam com uma varanda que proporciona a melhor vista para um lindo pôr-do-sol e a opção de área privativa no térreo.\n\tLocalizado em uma região privilegiada de Teresina, no coração do bairro Morada do Sol na Zona Leste, o Grand Topázio é para quem busca viver próximo a tudo que precisa no dia a dia,  pois a região tem acesso facilitado a um completo centro comercial e a escolas e faculdades. O que facilita a vida de quem trabalha e estuda.\n\tLapidado para ser o lar perfeito para quem deseja descansar ou aproveitar os momentos de lazer. O Grand Topázio oferece um lazer premium exclusivo no condomínio com piscinas, fitness coberto, Salões de Jogos e de Festa e um espaço exclusivo de churrasqueira.",
+    "produto": "Apartamentos em Teresina / PI",
+    "endereco": "Avenidade Senador Area Leão, 3003 - Morada do Sol - Teresina / PI",
+    "latitude":-5.074058713500364,
+    "longitude":-42.77139006931849,
+    "area": "8281,38 m²",
+    "areasLazer": {
+        "0": "Academia",
+        "2": "Churrasqueira",
+        "3": "Espaço Kids",
+        "4": "Pet Place",
+        "5": "Piscina Adulta",
+        "6": "Piscina Infantil",
+        "7": "Playground",
+        "9": "Quadra Poliesportiva",
+        "10": "Salão de Festas",
+        "11": "Salão de Jogos",
+        "12": "Vagas de Garagem"
+    },
+    "tipologia": {
+        "0": "1 Dormitório (PCD) Área total 52,94 m²",
+        "1": "1 Dormitório com Suíte Área total 43,73 m²",
+        "2": "1 Dormitório com Suíte Área total 51,08 m² ou 52,94 m²"
+    },
+    "proximidades": {
+        "0": "Agência da Caixa",
+        "1": "BIG Bom Preço",
+        "2": "Grupo Educacional CEV e CEV Baby",
+        "3": "Praça Dezesseis de Agosto",
+        "4": "Colégio Militar do Piauí",
+        "5": "Vila Saúde Kids",
+        "6": "Praça Vilmary",
+        "7": "Haven",
+        "8": "Centro Universitário UniFacid"
+    },
+    "viasAcesso": {
+        "0": "Avenida Dom Severino",
+        "1": "Avenida Jóquei Clube",
+        "2": "Est. Rural União - Teresina"
+    }
+}
