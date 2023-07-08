@@ -1,0 +1,35 @@
+{
+    "nome": "Saint Charles",
+    "slogan": "",
+    "resumo": "\tVocê sempre sonhou em morar em uma região valorizada, com a qualidade MRV que você já conhece e com as melhores condições de pagamento do mercado? A sua oportunidade chegou com o <b>Saint Charles</b>. Os apartamentos em Santana de Parnaíba foram projetados para você realizar todos os seus sonhos aqui.\n\tApartamentos de 2 dormitórios no <b>Chácara das Moças</b>, em condomínio fechado, todos com vaga de garagem. Conforto, tranquilidade, segurança e área de lazer. Aqui sua família poderá se divertir em qualquer momento sem sair de casa no lazer completo com piscina que o condomínio oferece.",
+    "produto": "Apartamentos em Santana de Parnaíba/SP",
+    "endereco": "Rua Vereda Tropical (Chácara das Moças - Santana de Parnaíba/SP)",
+    "latitude":-23.45856,
+    "longitude":-46.91995,
+    "area": "41.764,79 m²",
+    "areasLazer": {
+        "10": "Salão de Festas",
+        "7": "Playground",
+        "4": "Pet Place",
+        "5": "Piscina Adulta",
+        "6": "Piscina Infantil",
+        "2": "Churrasqueira",
+        "12": "Vagas de Garagem",
+        "13": "Bicicletário"
+    },
+    "tipologia": {
+        "0": "2 Dormitórios (PCD) Área total: 39,3m²",
+        "1": "2 Dormitórios Área total: 39,3m²"
+    },
+    "proximidades": {
+        "0": "Próximo a Zoonose Santana de Parnaíba",
+        "1": "Império dos Pisos",
+        "2": "a 5min da Câmara Municipal de Santana de Parnaíba",
+        "3": "a 5min da Prefeitura Municipal de Santana do Parnaíba",
+        "4": "a 7min do Hospital Municipal Santa Ana"
+    },
+    "viasAcesso": {
+        "0": "R. Rosa dos Ventos",
+        "1": "Estr. Mal. Mascarenhas de Moraes"
+    }
+}

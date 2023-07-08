@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e47a6687de7f1c4186ea136d78c89c6
+labels:
+- sun
+- location
+- time
+- day
+- night
+- cycle
+- sky
+timeCreated: 1465940721
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
